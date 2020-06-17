@@ -2,11 +2,12 @@
 name = "rustdash"
 version = "0.0.1"
 authors = ["Kim Jeker <git@kije.ch>"]
+description = "Lodash implemented in Rust for use as a wasm module"
 edition = "2018"
 readme = "README.MD"
 repository = "https://github.com/kije/rustdash"
 license = "MIT OR Apache-2.0"
-keywords = ["wasm", "webdev", "collection", "lodash", "web", "webassembly"]
+keywords = ["wasm", "webdev", "collection", "web", "webassembly"]
 categories = ["wasm", "web-programming"]
 
 [dependencies]
