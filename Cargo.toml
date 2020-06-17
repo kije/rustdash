@@ -3,7 +3,10 @@ name = "rustdash"
 version = "0.0.1"
 authors = ["Kim Jeker <git@kije.ch>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+readme = "README.MD"
+repository = "https://github.com/kije/rustdash"
+license = "MIT OR Apache-2.0"
+keywords = ["wasm", "webdev", "collection", "lodash", "web", "webassembly"]
+categories = ["wasm", "web-programming"]
 
 [dependencies]
